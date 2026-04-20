@@ -1,0 +1,505 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,493,Ischemic heart disease,3,Rate,2023,23.903792388414825,30.97745889171363,17.66405205208492
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,493,Ischemic heart disease,3,Rate,2023,7.088839906646609,9.31297365442405,4.989951502878907
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,493,Ischemic heart disease,3,Rate,2023,15.722160143926967,19.787478902152728,12.308088673444422
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,493,Ischemic heart disease,3,Rate,2023,59.53381264995737,75.81016051653017,46.06376190131558
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,493,Ischemic heart disease,3,Rate,2023,20.64350313531222,26.36578192938966,15.363571977291615
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,493,Ischemic heart disease,3,Rate,2023,40.659368000497516,49.60800729628807,32.87003718490219
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,493,Ischemic heart disease,3,Rate,2023,141.83861190041472,175.5397947298377,115.60245420606503
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,493,Ischemic heart disease,3,Rate,2023,42.10243111023565,51.75655692438231,32.62833801526481
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2023,93.52815944899125,110.54760098532795,80.30420738246337
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,493,Ischemic heart disease,3,Rate,2023,367.1515270786658,443.3093491945555,304.0873122439092
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,493,Ischemic heart disease,3,Rate,2023,97.75794902831892,117.93947053849382,75.80553047233494
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2023,236.7927335212346,276.98257071668957,203.47463473252887
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,493,Ischemic heart disease,3,Rate,2023,690.4519766686338,806.9256562239592,582.5751490154317
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,493,Ischemic heart disease,3,Rate,2023,184.0516794257308,218.79607105009455,152.26186841324335
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2023,443.2882394999834,505.38809411935193,386.2390033539678
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,493,Ischemic heart disease,3,Rate,2023,1449.4531192752581,1643.2248069795462,1266.565549775807
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,493,Ischemic heart disease,3,Rate,2023,368.2093569617463,431.52348925423365,313.43646954852244
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2023,915.3689741116017,1019.3648449946945,821.887300098016
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,493,Ischemic heart disease,3,Rate,2023,2766.0720861542063,3097.1005470061696,2495.684495026421
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,493,Ischemic heart disease,3,Rate,2023,672.7731743833051,769.5372622775062,580.6895243166301
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2023,1730.3649484310552,1909.4237300220525,1575.1988755490509
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,493,Ischemic heart disease,3,Rate,2023,5773.494700962638,6279.765624793228,5372.17433600069
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,493,Ischemic heart disease,3,Rate,2023,1454.9347916876227,1629.711858818323,1283.6502529120664
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2023,3609.6767522178106,3869.355913132781,3344.4875022635933
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,493,Ischemic heart disease,3,Rate,2023,9789.327048692281,10508.834214765977,8927.312097322338
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,493,Ischemic heart disease,3,Rate,2023,2725.163429073973,2992.465064451687,2433.9443310913603
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2023,6147.863890766789,6499.200985788005,5680.215027321257
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,493,Ischemic heart disease,3,Rate,2023,15248.579495378654,16330.306650056364,14291.744339371773
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,493,Ischemic heart disease,3,Rate,2023,4784.479424103572,5203.8382520742925,4315.133267763157
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2023,9586.10109233407,10181.564445730446,9038.840545641011
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,493,Ischemic heart disease,3,Rate,2023,19668.419893915372,20801.743562431733,18435.193363792212
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,493,Ischemic heart disease,3,Rate,2023,7103.261918016264,7648.495550857847,6539.743445245347
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2023,12528.20196099351,13177.862111835182,11896.788572662015
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,493,Ischemic heart disease,3,Rate,2023,22997.96813129353,24762.989865377414,21505.056493249896
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,493,Ischemic heart disease,3,Rate,2023,10399.853680363947,11299.99370211979,9623.844084319526
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2023,15476.662139852071,16351.578283314511,14607.916419871543
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,493,Ischemic heart disease,3,Rate,2023,28398.407533886948,30078.60394745577,26446.556992679638
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,493,Ischemic heart disease,3,Rate,2023,17215.55684283796,18489.35444030598,15914.15017736434
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2023,21382.38732196788,22475.176666328905,19934.377356539342
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,493,Ischemic heart disease,3,Rate,2023,39348.22997269363,41842.305815076536,36664.657205453346
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,493,Ischemic heart disease,3,Rate,2023,28026.41348317553,30233.30178189468,24928.700814746335
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,493,Ischemic heart disease,3,Rate,2023,31715.70788903082,33717.59646139593,29058.492760512792
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,493,Ischemic heart disease,3,Rate,2023,59460.22140832765,64114.96869516273,53778.25032728367
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,493,Ischemic heart disease,3,Rate,2023,47411.21860138024,51523.583061389734,40487.420956933216
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,493,Ischemic heart disease,3,Rate,2023,50753.91766331289,53931.28155541804,44174.130563717925
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,493,Ischemic heart disease,3,Rate,2023,77146.97199578719,84428.76609828873,65311.90210719114
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,493,Ischemic heart disease,3,Rate,2023,73327.1203423329,81323.81513119813,60377.22469232807
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,493,Ischemic heart disease,3,Rate,2023,74305.670897705,81354.75427234713,62143.91801201915
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,493,Ischemic heart disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,493,Ischemic heart disease,3,Rate,2023,86502.23663716839,101362.20948872772,69582.14086628266
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,493,Ischemic heart disease,3,Rate,2023,96681.76678354738,109692.40832528085,76280.08625657666
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,493,Ischemic heart disease,3,Rate,2023,93990.60530893637,105248.0752665699,75225.68404181713
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,494,Stroke,3,Rate,2023,16.705728267370024,20.90640783532817,12.626526961485975
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,494,Stroke,3,Rate,2023,21.10425372659329,27.157218701820558,15.612030433299568
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,494,Stroke,3,Rate,2023,18.84559088315398,23.67206709131127,14.149889610204688
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,494,Stroke,3,Rate,2023,24.616790482508712,31.44061369815752,18.55684547807769
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,494,Stroke,3,Rate,2023,33.27406470916722,44.541488449517004,23.49940300151336
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,494,Stroke,3,Rate,2023,28.82968321972204,36.94801888513964,21.51802939434322
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,494,Stroke,3,Rate,2023,51.74781240512548,64.9040595664137,39.828622950384904
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,494,Stroke,3,Rate,2023,48.505449264354304,62.79686107224574,36.01169309488104
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,494,Stroke,3,Rate,2023,50.17017947100715,63.30907557319433,39.36319849366732
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,494,Stroke,3,Rate,2023,76.32572485435573,95.08553926721372,60.63944562534193
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,494,Stroke,3,Rate,2023,70.57183574698108,92.54889584727422,50.38633289089662
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,494,Stroke,3,Rate,2023,73.53321785629811,91.27431804329402,58.263513444248225
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,494,Stroke,3,Rate,2023,116.63829629255768,144.47572512968102,92.87879185811511
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,494,Stroke,3,Rate,2023,104.69467390196705,139.28146827876864,77.41804384811829
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,494,Stroke,3,Rate,2023,110.85301559475103,134.33380696536602,90.53356489486228
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,494,Stroke,3,Rate,2023,190.03252949360686,230.0726424458749,153.854310970438
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,494,Stroke,3,Rate,2023,177.01777397094878,221.8840222239101,138.8367128796186
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,494,Stroke,3,Rate,2023,183.73472595776477,216.84794625235807,154.51308214835393
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,494,Stroke,3,Rate,2023,322.3034632390271,394.6906390909459,262.6469950936569
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,494,Stroke,3,Rate,2023,241.88488052852793,290.94573629194514,194.77342325715614
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,494,Stroke,3,Rate,2023,283.0527804318659,340.5155115210521,242.46856635960964
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,494,Stroke,3,Rate,2023,523.1883721979146,626.1639715459245,445.50493487725345
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,494,Stroke,3,Rate,2023,332.301361485669,395.46756739270006,268.5148216049786
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,494,Stroke,3,Rate,2023,428.8990643724933,498.07588845197216,365.43915646272586
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,494,Stroke,3,Rate,2023,953.6892830869501,1096.8790142968464,830.5226124331334
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,494,Stroke,3,Rate,2023,536.9242092470955,629.996259105846,461.7103467464272
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,494,Stroke,3,Rate,2023,747.4853055744948,852.2418973264619,672.5452661123528
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,494,Stroke,3,Rate,2023,1913.233216583727,2173.1988388024497,1689.2287080665303
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,494,Stroke,3,Rate,2023,910.0117283903156,1026.3477558917216,787.1305325974469
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,494,Stroke,3,Rate,2023,1410.568275417304,1556.741889220184,1277.8939304388928
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,494,Stroke,3,Rate,2023,3115.750060334221,3520.8698803987118,2793.6951375817334
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,494,Stroke,3,Rate,2023,1223.4691504357122,1379.7523292392189,1051.8023033457903
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,494,Stroke,3,Rate,2023,2140.3095710023135,2363.2869819644666,1928.7111905518364
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,494,Stroke,3,Rate,2023,5124.596468616845,5636.445557100262,4581.619513317904
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,494,Stroke,3,Rate,2023,2221.2340356013638,2452.7443616275586,1981.680401689009
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,494,Stroke,3,Rate,2023,3553.488875877832,3865.6068064245555,3257.009997603552
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,494,Stroke,3,Rate,2023,7229.2550387358215,7899.256233753283,6662.177091595448
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,494,Stroke,3,Rate,2023,3280.4646647025584,3649.522540102177,2978.12782484186
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,494,Stroke,3,Rate,2023,4985.33388023531,5338.4225145650635,4609.743029800778
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,494,Stroke,3,Rate,2023,9127.309422554092,9855.809108803034,8398.4807876413
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,494,Stroke,3,Rate,2023,4668.973822234991,5065.800631988314,4285.5279992013375
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,494,Stroke,3,Rate,2023,6465.601085711467,6912.053329662354,6082.262232599485
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,494,Stroke,3,Rate,2023,11527.983497185527,12524.125201038367,10420.846040661134
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,494,Stroke,3,Rate,2023,7631.870127872297,8336.008882984026,6906.357485273786
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,494,Stroke,3,Rate,2023,9083.596917928993,9718.240071256932,8429.836729535995
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,494,Stroke,3,Rate,2023,28.89008183691445,40.440946690927476,18.624657773495898
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,494,Stroke,3,Rate,2023,20.054085713443012,28.839252338101996,13.150152744018179
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,494,Stroke,3,Rate,2023,24.60578043465555,30.99314014281747,17.770887043180096
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,494,Stroke,3,Rate,2023,14757.769479938259,16186.794831219137,13398.815776573652
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,494,Stroke,3,Rate,2023,11109.357261094088,12174.845840542332,9844.742567437748
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,494,Stroke,3,Rate,2023,12298.218324307541,13268.425056765635,11127.760769610686
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,494,Stroke,3,Rate,2023,18286.474457666063,20396.77378724166,16419.62193420225
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,494,Stroke,3,Rate,2023,16306.113951366255,18224.891555097973,14178.587907107614
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,494,Stroke,3,Rate,2023,16855.516197573717,18382.34771647494,14828.22296316873
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,494,Stroke,3,Rate,2023,20424.57938730056,23535.620063840477,17704.806551494927
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,494,Stroke,3,Rate,2023,23021.076122854167,25791.468884609843,18901.012111937976
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,494,Stroke,3,Rate,2023,22355.918532166022,24648.942447480273,18851.707152277224
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,494,Stroke,3,Rate,2023,9.446520978222033,11.903314880816596,7.3603863866156285
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,494,Stroke,3,Rate,2023,11.588770030194109,14.571959319629112,8.624673799930894
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,494,Stroke,3,Rate,2023,10.486495800447996,13.000857492903668,8.071133318652914
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,494,Stroke,3,Rate,2023,21263.218597485138,25243.455857992893,17404.2549172673
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,494,Stroke,3,Rate,2023,29111.610953723306,33694.096091682746,23424.29934263806
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,494,Stroke,3,Rate,2023,27036.732168256724,30721.082380225478,21924.647672593615
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,10.430604567306712,12.647975955033584,8.365237261608481
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,3.0415932947992776,3.7398763673839155,2.468320845898231
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,6.78077655753597,8.05477803483651,5.732780853314981
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,26.518990053606323,31.611416300620558,21.551919153552582
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,7.107532556504158,8.612092533514149,5.765542350848582
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,16.9147309722551,19.72930793550414,14.419297645413907
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,69.76074818690834,84.25818334117018,59.068262274793504
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,22.15945840451983,26.381664263451466,18.39779867050022
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,45.910083294354536,53.10617766525557,40.48063507689924
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,165.3576437767624,193.84416296661655,138.57025461113088
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,39.58903763971175,49.49752003492486,32.6630211926829
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,100.5259424837992,116.36248792863638,86.38754632346483
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,296.26984237112987,340.43461129865045,246.94917271499492
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,88.83691412054979,108.62052117933993,73.73337862654014
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,184.02087033352998,207.8972618132601,157.8988282698749
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,415.12517859784873,477.94055941110713,348.62111276203126
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,152.37684785604927,190.8268889879648,122.1110486535071
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,265.8170404426149,306.4929123334269,231.62319161061802
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,467.2126729559325,554.1741727489997,399.54591822127213
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,197.54493749726382,263.4822861250346,157.73065509100385
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,306.21607602042207,365.7177709161011,263.6249695982179
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,526.7644391096427,623.9543946693691,445.5185406776932
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,268.7218738410905,358.2753470286419,211.25503924274872
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,364.8708483359839,450.3455342356871,307.9789055079123
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,664.1085810445085,789.447764865967,548.2766623528801
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,373.95481197385277,481.4462705569153,295.65735370295783
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,468.5034807374971,579.0539674708938,387.50622887933406
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,905.9998789504444,1058.1326087930513,747.6322360803723
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,519.2542383054301,652.8050937134074,413.69537191301924
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,626.5472907599631,761.3273095282428,523.310483259041
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,1304.253575973703,1614.935244063468,1060.0714919663992
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,916.1944732813209,1142.090119514313,754.5764513757856
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,1015.6055198106858,1238.1169550124396,848.9393089758242
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,502,Lower extremity peripheral arterial disease,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,502,Lower extremity peripheral arterial disease,3,Rate,2023,1802.0017718895203,2228.6973111568154,1374.6307012935754
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,502,Lower extremity peripheral arterial disease,3,Rate,2023,1374.2111983314874,1735.0092813026943,1076.7734748041123
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,502,Lower extremity peripheral arterial disease,3,Rate,2023,1487.3061540127808,1815.9067520058709,1195.0460966571572
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,20.006881923919625,24.4295702911572,15.707086885823816
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,10.052827140871852,14.387337489650761,7.012500143632069
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,15.164279578389303,18.718831523016714,11.965407004201113
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,17.516175031000607,23.11892339035056,13.402964172721925
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,13.847578862820038,18.68043889619417,9.760520639762406
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,15.730924645249335,19.506047766426768,12.637914876517044
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,48.433925186603915,60.645133773099374,38.47253944970736
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,27.695684431788695,35.0106196257515,21.705245261428935
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,38.34334304326946,45.843207178687926,31.943232658973514
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,71.94744778065964,89.71147048263222,55.851444065071554
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,44.052414670606005,54.78798615097689,34.24470059603834
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,58.40928711798126,69.45249233388348,47.930812833047725
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,116.70192313088891,145.18181586589276,90.02389426921425
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,80.08028408592848,104.08780388743195,60.484957033028124
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,98.96304504514444,118.88946647271584,81.75786076558815
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,389.53948142973877,469.76598540735426,322.80003668237714
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,156.0474579394292,193.87894801635696,123.15911120091972
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,276.55334899197254,321.97455200031607,234.73996486601104
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,866.387322116835,1016.9251172876073,734.9190159432586
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,275.98148995484604,334.2200450536733,224.7519529506857
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,578.2221833564047,659.3259946759316,511.5016627781733
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1455.174427179406,1683.443337023004,1251.9873852491687
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,451.05362096719966,526.1015229067851,376.8118252048252
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,959.1854364273012,1085.8138621057208,849.8071632259146
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1867.1820473652433,2129.7183135432997,1620.39654097848
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,543.1300708330176,627.4302135933167,470.2272510923971
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1212.077286597586,1355.5338407268544,1090.1485669325657
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,3122.26434684015,3498.409664802186,2790.0774679971955
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,843.9814433293001,975.3778355133788,729.7819490372217
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1980.7288483172515,2185.7961224841943,1808.2156439468388
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,4101.005266603355,4601.489470606617,3646.8573755988923
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1236.86659507227,1392.8431544683287,1085.091946228419
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,2624.5876730746186,2870.6311458622968,2409.823617181005
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,4996.158229582965,5540.820138692412,4444.924887993597
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1449.3322780275012,1637.0658266899284,1285.540651695285
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,3076.850767570748,3369.95673217121,2816.7093075118655
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,4939.029490187553,5426.6211537485815,4490.066492347171
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1338.2221001845128,1504.357762415372,1172.5206647026077
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,2892.851515472711,3138.648835205396,2681.273743723412
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,2926.82150014219,3253.695126004981,2584.6772258807146
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,801.6549062799111,928.7185582838163,698.3186601982095
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1658.057964337976,1797.3209948048761,1499.2907936275606
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1858.418053260497,2065.535147496322,1611.9757439539767
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,613.0505265154021,710.0815540760942,532.3264381603091
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1077.0856380915297,1183.4696490769725,977.3044072191947
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,0.7123851641669111,1.1248221586450293,0.43055290785048267
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,0.571281145567257,0.9439483968240204,0.3250368944539365
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,0.6439681870311901,1.0447491775225075,0.38823571567790344
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,1104.9566438252002,1271.0222225758455,967.9564258862374
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,392.4042953682842,469.6943686230933,334.78818766944755
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,624.5945446516014,696.5745840731703,555.830234622293
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,795.4629528218004,962.2140812524638,660.9481145030281
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,293.6220998117089,354.8803588429066,234.44571479217475
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,432.84548414265646,493.77296817021096,364.0183173811657
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,628.3797162522695,772.7565922933076,505.55838367726255
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,318.1161742999375,379.1135075795613,259.7451097902653
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,397.59794187449904,460.63191537278277,329.8259864949817
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,19.32373704006851,24.11082908219482,14.723465806089054
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,11.863818951616713,16.03708398240564,8.523553982288858
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,15.70225008890564,18.78384420024856,12.445984977311713
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,749.7926077784733,923.6890892390379,559.3037909434423
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,332.02422665032697,413.26542947408365,255.36463281660406
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,521,Cirrhosis and other chronic liver diseases,3,Rate,2023,442.46961621504965,516.7767625879488,352.13284700421184
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,1032,Thyroid diseases,3,Rate,2023,11.418371182095877,21.044772177466427,5.21556843225807
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,1032,Thyroid diseases,3,Rate,2023,20.517167581741862,38.246136384075946,10.073223567409062
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,1032,Thyroid diseases,3,Rate,2023,15.844894216856348,29.54341688615072,7.681309171455073
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,1032,Thyroid diseases,3,Rate,2023,13.167532019504197,24.14393979900879,5.319769385153932
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,1032,Thyroid diseases,3,Rate,2023,25.83287284292023,48.43370018092581,10.769477137001664
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,1032,Thyroid diseases,3,Rate,2023,19.330871769675824,35.44660716109545,8.573403659549355
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,1032,Thyroid diseases,3,Rate,2023,18.446271677314098,36.893888309820724,8.359282196331339
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,1032,Thyroid diseases,3,Rate,2023,38.63602560331798,71.89161400803536,17.628136431901797
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,1032,Thyroid diseases,3,Rate,2023,28.26997721013507,53.13600933451554,13.177660845065608
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,1032,Thyroid diseases,3,Rate,2023,25.112286931039634,44.387266900199364,10.941090911200307
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,1032,Thyroid diseases,3,Rate,2023,54.50960247303983,95.22338845876845,24.549329973641775
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,1032,Thyroid diseases,3,Rate,2023,39.379543015263934,68.29465239290154,18.22897621107603
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,1032,Thyroid diseases,3,Rate,2023,30.588019783943707,52.106319894773776,12.971951299725282
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,1032,Thyroid diseases,3,Rate,2023,67.5572930164518,118.24671681578336,30.72445619841948
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,1032,Thyroid diseases,3,Rate,2023,48.495285758165025,82.86089629953709,22.333056703960576
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,1032,Thyroid diseases,3,Rate,2023,35.85768906034368,69.66573798998061,15.261096473705033
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,1032,Thyroid diseases,3,Rate,2023,79.78413199642281,148.61346792118673,36.384816668784055
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,1032,Thyroid diseases,3,Rate,2023,57.113571059677994,109.25840833018357,26.13902964670831
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,1032,Thyroid diseases,3,Rate,2023,40.85771088392317,78.0408182550188,19.9798767270214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,1032,Thyroid diseases,3,Rate,2023,90.12477046450242,174.42085908120262,42.564314099087106
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,1032,Thyroid diseases,3,Rate,2023,64.90396565814902,122.84996060717059,31.57710094681024
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,1032,Thyroid diseases,3,Rate,2023,42.89960885357195,74.51374833036867,19.18202603253689
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,1032,Thyroid diseases,3,Rate,2023,100.11679363627111,177.28584514379546,47.8730697500172
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,1032,Thyroid diseases,3,Rate,2023,71.16223777080414,122.68520384653796,34.62794938905926
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,1032,Thyroid diseases,3,Rate,2023,46.2131155581809,81.73528273059533,22.6996475844356
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,1032,Thyroid diseases,3,Rate,2023,108.98512650431168,190.21684835139044,57.07482599059795
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,1032,Thyroid diseases,3,Rate,2023,77.27099239581948,128.78623739221032,41.398133121227765
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,1032,Thyroid diseases,3,Rate,2023,51.23292528609334,91.74861945061305,25.909542888157336
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,1032,Thyroid diseases,3,Rate,2023,121.70732868052136,212.09169290493472,67.5851818435219
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,1032,Thyroid diseases,3,Rate,2023,86.54418232444884,149.34869499997572,46.15298682762437
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,1032,Thyroid diseases,3,Rate,2023,54.88972582338328,95.91031990251848,27.20551446589205
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,1032,Thyroid diseases,3,Rate,2023,131.4488597888265,224.9529315842651,73.18737222715471
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,1032,Thyroid diseases,3,Rate,2023,94.35473268755143,162.9825112864867,51.583034688393816
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,1032,Thyroid diseases,3,Rate,2023,60.30651383472533,101.26328907121456,30.13521320371558
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,1032,Thyroid diseases,3,Rate,2023,144.84343886053475,237.9706573269221,78.18725872864908
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,1032,Thyroid diseases,3,Rate,2023,106.05230267064141,173.7766523004704,57.93838670530563
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,1032,Thyroid diseases,3,Rate,2023,61.41393062923135,112.7537546567952,29.1982235145395
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,1032,Thyroid diseases,3,Rate,2023,162.19418638840753,268.7242928711399,85.59206380496097
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,1032,Thyroid diseases,3,Rate,2023,118.68284764852815,201.18132205957355,60.91713952340516
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,1032,Thyroid diseases,3,Rate,2023,58.05243404306459,101.41094561498748,33.278548611685466
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,1032,Thyroid diseases,3,Rate,2023,150.66279864031873,263.49693811651264,85.21134604253596
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,1032,Thyroid diseases,3,Rate,2023,113.34252470131453,198.40061849016305,64.43091964267148
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,1032,Thyroid diseases,3,Rate,2023,53.345069659311946,90.9730921073282,29.1897395095451
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,1032,Thyroid diseases,3,Rate,2023,150.33363903878413,241.63028953551998,97.42619528891261
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,1032,Thyroid diseases,3,Rate,2023,114.19482808773843,180.6705907504031,71.86128215782774
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,1032,Thyroid diseases,3,Rate,2023,5.358731826039288,7.784140313936127,3.509345042191011
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,1032,Thyroid diseases,3,Rate,2023,5.866588453494074,8.747748778075875,3.815342550484807
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,1032,Thyroid diseases,3,Rate,2023,5.604975806994792,8.27040402417549,3.7648197682006272
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,1032,Thyroid diseases,3,Rate,2023,51.36447093351654,85.39467409287909,28.672714011466436
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,1032,Thyroid diseases,3,Rate,2023,160.5627283379519,255.92045800623015,103.65898773781582
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,1032,Thyroid diseases,3,Rate,2023,124.97969971844454,199.5399224177261,80.20754986154635
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,1032,Thyroid diseases,3,Rate,2023,54.86886368588148,86.79510468750944,33.96316779479227
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,1032,Thyroid diseases,3,Rate,2023,169.8559253391421,252.71797579248636,111.98684253641034
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,1032,Thyroid diseases,3,Rate,2023,137.95559721396995,206.84604706594757,90.58638069423957
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,1032,Thyroid diseases,3,Rate,2023,62.487115787914945,98.31104020386356,38.83817098205791
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,1032,Thyroid diseases,3,Rate,2023,178.70145025975197,264.22289486750276,121.2423667529957
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,1032,Thyroid diseases,3,Rate,2023,148.93024136037698,219.27796509061096,100.70517461927324
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,1032,Thyroid diseases,3,Rate,2023,9.717104549363114,17.252504235920195,4.614057703150448
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,1032,Thyroid diseases,3,Rate,2023,14.881273004259391,27.12967844034033,7.3713600934377395
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,1032,Thyroid diseases,3,Rate,2023,12.224098386462344,21.12183168428159,6.355605882223195
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,1032,Thyroid diseases,3,Rate,2023,81.03866231107187,115.63741200992959,51.29533522284916
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,1032,Thyroid diseases,3,Rate,2023,194.29278156646944,274.40379630713414,128.2226202013277
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,1032,Thyroid diseases,3,Rate,2023,164.35180018536494,229.84286420838777,111.08241976852587
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,587,Diabetes mellitus,3,Rate,2023,8.497298934063561,18.167703195997948,4.415847463058788
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,587,Diabetes mellitus,3,Rate,2023,8.072978547620568,15.828536480556492,3.8486166743251107
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,587,Diabetes mellitus,3,Rate,2023,8.29086899737639,16.418719635209435,4.18351723619375
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,587,Diabetes mellitus,3,Rate,2023,16.3019871970503,26.9547001556005,8.292189871761737
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,587,Diabetes mellitus,3,Rate,2023,17.55406640676234,31.71262461735421,8.642674738642942
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,587,Diabetes mellitus,3,Rate,2023,16.911286991755723,29.31955731597503,8.789793104413292
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,587,Diabetes mellitus,3,Rate,2023,33.5663837830475,49.781767505961064,23.106728506632802
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,587,Diabetes mellitus,3,Rate,2023,27.586893800849527,39.75133118137691,18.981501359969034
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,587,Diabetes mellitus,3,Rate,2023,30.6569501645471,43.828335940825625,22.37540113945921
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,587,Diabetes mellitus,3,Rate,2023,54.168876058959924,71.98335095156985,41.66497083576309
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,587,Diabetes mellitus,3,Rate,2023,50.60405485128074,65.66741066421945,38.25281333273984
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,587,Diabetes mellitus,3,Rate,2023,52.4387787311353,67.99215607992038,40.085924136337546
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,587,Diabetes mellitus,3,Rate,2023,83.81237284989078,107.39630542624346,64.01184987718612
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,587,Diabetes mellitus,3,Rate,2023,74.98586377603797,94.91676813678997,57.651512751129665
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2023,79.53696703881911,99.61151426325064,62.082963532472625
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,587,Diabetes mellitus,3,Rate,2023,133.2135762925823,167.70562220304453,107.31121638888747
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,587,Diabetes mellitus,3,Rate,2023,101.96316573060506,125.21413954190629,76.3784363157174
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2023,118.0915906516609,143.85693299406526,94.65192750397618
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,587,Diabetes mellitus,3,Rate,2023,221.47726377440958,281.1949278176056,168.60483654915024
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,587,Diabetes mellitus,3,Rate,2023,136.71420890556024,169.53645521036253,106.26680392871997
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2023,180.10613202492138,223.2582318002066,138.76888750298562
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,587,Diabetes mellitus,3,Rate,2023,385.2098943257548,476.6104019322197,300.7935113704762
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,587,Diabetes mellitus,3,Rate,2023,209.8315532273093,269.93246600664054,160.25100658545807
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2023,298.5811481997501,369.26548624636933,232.52288621562712
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,587,Diabetes mellitus,3,Rate,2023,713.5893406090413,889.4789440800191,541.425956200057
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,587,Diabetes mellitus,3,Rate,2023,356.7790526685457,460.7532955756521,272.43111669880847
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2023,537.0493539138829,673.0106207552155,410.2425434477151
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,587,Diabetes mellitus,3,Rate,2023,1232.9959199990337,1547.7344738525471,943.8959344053786
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,587,Diabetes mellitus,3,Rate,2023,627.685404868312,820.3881620192316,468.04070589146136
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2023,929.7045949462527,1156.2644152667474,716.8914388357347
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,587,Diabetes mellitus,3,Rate,2023,2185.4624975886472,2708.3159769751946,1698.6278056308115
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,587,Diabetes mellitus,3,Rate,2023,1143.1687615218218,1414.5511179308933,874.2629827668748
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2023,1648.1767771555553,2049.0483078795073,1278.7748673223725
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,587,Diabetes mellitus,3,Rate,2023,3825.9865351919775,4701.065405167098,3023.3988067617274
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,587,Diabetes mellitus,3,Rate,2023,1883.442528851265,2375.797190825508,1478.5468376726417
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2023,2774.810284205717,3429.8913736317436,2160.0547561340995
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,587,Diabetes mellitus,3,Rate,2023,4810.346679798517,6054.911542509403,3734.2747449868734
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,587,Diabetes mellitus,3,Rate,2023,2627.4170277336734,3230.8924945905073,2082.15583668081
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2023,3569.885280277992,4446.766088512614,2882.6753300803684
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,587,Diabetes mellitus,3,Rate,2023,5555.8344954438035,6752.189343080334,4604.9879705355015
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,587,Diabetes mellitus,3,Rate,2023,3274.90408512271,4060.6202753279517,2675.4408051122714
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2023,4194.0770969036475,5120.865701699805,3453.174461077122
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,587,Diabetes mellitus,3,Rate,2023,5973.355300569547,7265.479917201378,4878.8137937764695
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,587,Diabetes mellitus,3,Rate,2023,4026.6922361464312,4831.3635226913075,3353.4593262131552
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2023,4752.036355774819,5621.57419332087,3970.898950007758
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,587,Diabetes mellitus,3,Rate,2023,3.881009728452238,4.8470169832260375,2.6880926615534904
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,587,Diabetes mellitus,3,Rate,2023,2.231352535824473,2.9080708544197096,1.6099001619201316
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,587,Diabetes mellitus,3,Rate,2023,3.0811419461602605,3.7038330048081183,2.3002777090721547
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,587,Diabetes mellitus,3,Rate,2023,5752.768952241707,6943.925684433748,4715.930890133006
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,587,Diabetes mellitus,3,Rate,2023,4619.085751664068,5474.001037062468,3857.6828170150875
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,587,Diabetes mellitus,3,Rate,2023,4988.504483523522,5895.8581131667725,4229.442908359524
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,587,Diabetes mellitus,3,Rate,2023,5971.783831795326,7191.028432479306,4961.779347416718
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,587,Diabetes mellitus,3,Rate,2023,4706.061851252995,5500.819376443212,3962.777920871173
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,587,Diabetes mellitus,3,Rate,2023,5057.205240030931,5888.408815624286,4286.383826214454
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,587,Diabetes mellitus,3,Rate,2023,5495.72390839302,6625.222071827209,4441.862487182731
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,587,Diabetes mellitus,3,Rate,2023,4374.190254812197,5179.670043457647,3595.7898610377647
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,587,Diabetes mellitus,3,Rate,2023,4661.49915556166,5451.383615937971,3813.8991729258964
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,587,Diabetes mellitus,3,Rate,2023,2.909986339223362,6.100298025424058,1.36733543516829
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,587,Diabetes mellitus,3,Rate,2023,2.6789895952004423,5.527949535014942,1.1835974626532642
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,587,Diabetes mellitus,3,Rate,2023,2.7978468111050665,5.225323385828389,1.363517924867069
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,587,Diabetes mellitus,3,Rate,2023,4560.26993997912,5783.351110996946,3351.5294731570702
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,587,Diabetes mellitus,3,Rate,2023,4012.763280414102,4826.730327457094,3169.3043312868886
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,587,Diabetes mellitus,3,Rate,2023,4157.50756704883,4965.124151501755,3312.601144777324
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,589,Chronic kidney disease,3,Rate,2023,8.847055106992151,11.542735950077567,6.9501867295339546
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,589,Chronic kidney disease,3,Rate,2023,9.861570137198672,13.126373862253851,7.488029908139166
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,589,Chronic kidney disease,3,Rate,2023,9.34061205156722,11.958657351226416,7.3299845281507094
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,589,Chronic kidney disease,3,Rate,2023,10.894034592485637,15.603481105266239,7.7102241903370095
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,589,Chronic kidney disease,3,Rate,2023,15.517678682706803,19.41306234806452,12.267096800732096
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,589,Chronic kidney disease,3,Rate,2023,13.14404032144478,17.312352331565084,10.252694240833824
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,589,Chronic kidney disease,3,Rate,2023,26.186253471727877,35.89932165158212,19.308738167511816
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,589,Chronic kidney disease,3,Rate,2023,25.997593531441847,32.61438299198743,20.818144881459194
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,589,Chronic kidney disease,3,Rate,2023,26.0944574198294,32.840600137463156,20.664959636806145
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,589,Chronic kidney disease,3,Rate,2023,38.879735539337005,50.22780680073887,30.20935644215472
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,589,Chronic kidney disease,3,Rate,2023,40.75577979487575,51.493584770972895,32.61038206500542
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,589,Chronic kidney disease,3,Rate,2023,39.79022696774205,49.67893446488805,32.34973791076211
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,589,Chronic kidney disease,3,Rate,2023,52.111504649787676,68.92279278379226,40.92173841264837
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,589,Chronic kidney disease,3,Rate,2023,52.90122652290984,66.6565608134886,42.743278959940476
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,589,Chronic kidney disease,3,Rate,2023,52.494032040540525,66.2993904240029,43.0268235217352
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,589,Chronic kidney disease,3,Rate,2023,69.2386969011656,91.61363770339835,50.50883967806892
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,589,Chronic kidney disease,3,Rate,2023,68.01093594910226,82.44453175837145,53.95895031541471
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,589,Chronic kidney disease,3,Rate,2023,68.64458683497095,83.53275114943727,54.926332283089245
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,589,Chronic kidney disease,3,Rate,2023,97.6251995299699,128.61818884861722,71.79370209193355
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,589,Chronic kidney disease,3,Rate,2023,91.74685128557009,109.87006240794706,73.92283210042848
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,589,Chronic kidney disease,3,Rate,2023,94.75609671076732,119.00629135495123,74.96825796098226
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,589,Chronic kidney disease,3,Rate,2023,145.95229175166847,180.45617124595793,111.68477272067807
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,589,Chronic kidney disease,3,Rate,2023,118.20141901780785,141.50752763678506,95.82220758754872
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,589,Chronic kidney disease,3,Rate,2023,132.24465092339068,160.30565180851698,105.39626917254958
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,589,Chronic kidney disease,3,Rate,2023,201.32989686435548,245.4242647915044,158.76297469536246
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,589,Chronic kidney disease,3,Rate,2023,149.04890232168208,179.72729433917436,121.60559623845795
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,589,Chronic kidney disease,3,Rate,2023,175.46268845439945,206.97193633089535,146.3827185676049
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,589,Chronic kidney disease,3,Rate,2023,313.61613423779625,371.6347088384843,260.39668003836033
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,589,Chronic kidney disease,3,Rate,2023,211.12868935632633,256.86470959766086,171.54741318241796
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,589,Chronic kidney disease,3,Rate,2023,262.2647167712386,313.2385984221938,220.37645218162928
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,589,Chronic kidney disease,3,Rate,2023,504.2492609188221,626.6421364311931,420.12339076657884
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,589,Chronic kidney disease,3,Rate,2023,298.3372638760222,359.8074751621532,248.6272517499091
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,589,Chronic kidney disease,3,Rate,2023,398.10492573895067,473.4077715277913,341.17333279686534
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,589,Chronic kidney disease,3,Rate,2023,749.7320749870875,880.4350328464366,626.3427108819577
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,589,Chronic kidney disease,3,Rate,2023,426.9600191801692,504.7890294166147,359.71726633881406
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,589,Chronic kidney disease,3,Rate,2023,575.0692007156392,676.9615453017798,496.13884635284506
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,589,Chronic kidney disease,3,Rate,2023,1020.0709153379867,1199.5736027029768,845.7708029122819
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,589,Chronic kidney disease,3,Rate,2023,641.1004348996029,749.9665094437337,556.570041805819
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,589,Chronic kidney disease,3,Rate,2023,804.7189217009525,929.6162596983826,701.2482230385889
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,589,Chronic kidney disease,3,Rate,2023,1508.386462591974,1717.1703486192632,1300.5707984335518
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,589,Chronic kidney disease,3,Rate,2023,945.9889312274707,1072.6355115461884,840.5668498885292
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,589,Chronic kidney disease,3,Rate,2023,1172.6247945503246,1291.0179762303767,1050.3148866294987
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,589,Chronic kidney disease,3,Rate,2023,2057.025519552984,2323.5302507849096,1781.950631572577
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,589,Chronic kidney disease,3,Rate,2023,1726.6334032771572,1920.2494918765003,1515.916981481479
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,589,Chronic kidney disease,3,Rate,2023,1849.7404694623708,2023.0994144464155,1666.617659002882
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,589,Chronic kidney disease,3,Rate,2023,14.506685194732514,18.123548977194556,9.62979987139282
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,589,Chronic kidney disease,3,Rate,2023,15.982684150769197,20.927842515172777,11.758377563005501
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,589,Chronic kidney disease,3,Rate,2023,15.22235146582591,18.210763243775297,11.470429859538921
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,589,Chronic kidney disease,3,Rate,2023,3246.745210806784,3681.9332385565617,2855.8105645822075
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,589,Chronic kidney disease,3,Rate,2023,2838.7042446363084,3172.0500621940428,2507.512897727634
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,589,Chronic kidney disease,3,Rate,2023,2971.6672948011146,3278.783694564738,2680.9261582387016
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,589,Chronic kidney disease,3,Rate,2023,5027.208371224105,5857.367282530666,4345.440073088371
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,589,Chronic kidney disease,3,Rate,2023,5080.4296827693715,5722.382770971724,4348.298565727518
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,589,Chronic kidney disease,3,Rate,2023,5065.664740721668,5612.30664187573,4441.603580926362
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,589,Chronic kidney disease,3,Rate,2023,6751.874357933878,8079.6578772577395,5652.49863528505
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,589,Chronic kidney disease,3,Rate,2023,7724.147557030807,8820.71752706905,6568.300876628436
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,589,Chronic kidney disease,3,Rate,2023,7475.075455476991,8386.453494041705,6404.135586087708
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,589,Chronic kidney disease,3,Rate,2023,6.291652556905523,7.720768464422457,4.893100201430228
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,589,Chronic kidney disease,3,Rate,2023,8.22484364658697,10.523242157426195,6.356353660230201
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,589,Chronic kidney disease,3,Rate,2023,7.230138237629486,8.771714504950708,5.667237028240922
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,589,Chronic kidney disease,3,Rate,2023,7259.962697611254,8900.552803393637,5829.440468452749
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,589,Chronic kidney disease,3,Rate,2023,9031.914806748531,10539.455984077207,7311.671840118908
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,589,Chronic kidney disease,3,Rate,2023,8563.463986092318,9967.314792413656,6980.450752656086
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,6,5-9 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,6,5-9 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,6,5-9 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,7,10-14 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,7,10-14 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,7,10-14 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,8,15-19 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,1.0944390574197966,2.1617596448859366,0.3742116454892414
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,8,15-19 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.740087435329894,1.6618965719933003,0.2641724539502329
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,8,15-19 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.9220225929474308,1.795300037124151,0.34333436774807147
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,9,20-24 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,2.419403636962828,4.506585864328179,1.1380832721615597
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,9,20-24 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,2.380450052418987,4.482046967646586,1.204596959652187
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,9,20-24 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,2.4004984833513894,4.398005471303304,1.2061424861409928
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,10,25-29 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,4.584446562911819,9.36615243373119,1.8518328544597393
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,10,25-29 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,6.284512451430049,12.627463166502416,2.7143152085644147
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,10,25-29 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,5.40792858940259,11.061538676891233,2.3642758821009306
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,11,30-34 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,15.220008100210762,26.68889352123158,7.932966369223749
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,14.110659400475361,26.11670010575852,7.499408542118194
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,11,30-34 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,14.683197389359345,24.9487709991036,7.866736262115527
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,12,35-39 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,33.205944997166405,59.85728074572307,16.04032956553642
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,26.111754574727897,45.45403485120827,13.025337043675654
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,12,35-39 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,29.743414215603917,52.73635423578664,14.907150275772558
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,13,40-44 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,58.25552495270724,107.23048915731634,31.043878892447978
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,45.513634584161615,78.62298289150526,26.642621643504874
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,13,40-44 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,51.96162355651081,90.0040803770132,29.120960295471477
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,14,45-49 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,81.93713909714067,146.7136622605551,41.53725940088951
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,59.33664545053678,109.75191412671155,29.822864036254657
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,14,45-49 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,70.75503201523709,127.05544800830143,36.488609856999446
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,15,50-54 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,146.18447711637245,255.73278842612905,65.84968655705899
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,15,50-54 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,97.5034247852775,173.83364332478376,50.69709589726079
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,15,50-54 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,121.79279632213911,216.04091015373865,58.51693145226616
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,16,55-59 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,202.13488879036865,346.6789773051676,96.11212130218225
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,16,55-59 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,148.70029170996514,248.010558469899,73.75404473444974
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,16,55-59 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,174.5902101696043,293.549971194247,86.7151433171
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,17,60-64 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,256.62802397209987,466.5431771833201,120.29907155306401
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,17,60-64 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,179.77797314064753,304.31128083455627,91.29517275938225
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,17,60-64 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,215.04186270243298,376.4987857194814,104.6118793881255
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,18,65-69 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,262.01384292836553,442.0284803669605,145.2895355833397
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,18,65-69 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,170.23714028055718,262.6089348849597,102.29516995771255
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,18,65-69 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,209.86124291113984,323.7825027724336,125.09078829918418
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,19,70-74 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,160.33485478431047,258.0817797592704,88.55385682005844
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,19,70-74 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,104.4319109395637,158.40913134195526,60.3405810472134
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,19,70-74 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,126.95976932081209,201.02364775108705,73.6475289799362
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,20,75-79 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,104.983790168186,189.1046571144842,47.70912508730603
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,20,75-79 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,81.4582381869293,142.0161024494511,40.80721592863791
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,20,75-79 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,90.22406988244838,160.90922678530023,45.125223272838355
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,28,<1 year,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,28,<1 year,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,28,<1 year,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,30,80-84 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,68.09988990285468,121.48243551037154,32.91648112216503
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,30,80-84 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,55.81509927612225,92.64205931887318,28.8487761948245
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,30,80-84 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,59.81818565172883,99.38926156807608,30.763283868608003
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,31,85-89 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,54.861065871058116,89.61840801945087,29.383638947428818
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,31,85-89 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,45.56051266786363,68.44509291797439,25.980906106347277
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,31,85-89 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,48.14072208152961,72.89448705816775,28.167098343870897
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,32,90-94 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,47.7620752137002,81.93392248425049,25.293318224625466
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,32,90-94 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,53.09412463132669,86.88826862801096,28.360958944027
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,32,90-94 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,51.72818679073768,83.13487012331031,27.688185286555516
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,34,2-4 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,34,2-4 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,34,2-4 years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,0.0,0.0,0.0
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,1,Male,235,95+ years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,62.19888622203785,119.61018447206386,27.38180034153703
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,235,95+ years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,59.011262018013895,104.1007204913011,27.41228256790804
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,235,95+ years,971,Nonalcoholic fatty liver disease including cirrhosis,3,Rate,2023,59.85397394381513,107.03554244493583,26.503778015650948
